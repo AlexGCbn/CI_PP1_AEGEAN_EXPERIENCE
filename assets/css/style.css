@@ -1,1 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Poppins:wght@300&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    height: 1500px;
+}
+
+h1, h2 {
+    font-family: 'Lora', serif;
+    text-transform: uppercase;
+}
+
+.navbar-brand   {
+    font-family: 'Dancing Script', cursive;
+}
+
+.navbar {
+    background-color: red;
+}

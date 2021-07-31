@@ -16,13 +16,20 @@ h1, h2 {
     font-family: 'Dancing Script', cursive;
 }
 
-.carousel .item {
-    height: 500px;
+.carousel {
+    margin-top: 55px;
+    width: 100%;
 }
 
-.item img {
+.carousel .carousel-item {
+    height: 400px;
+    width: 100%;
+}
+
+/* .carousel-item img {
     position: absolute;
     top: 0;
     left: 0;
-    min-height: 300px;
-}
+    width: 100%;
+    height: auto;
+} */

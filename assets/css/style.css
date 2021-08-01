@@ -13,10 +13,14 @@ h1, h2 {
     text-transform: uppercase;
 }
 
-
-
-.navbar-brand   {
+.navbar-brand {
     font-family: 'Dancing Script', cursive;
+    margin-left: 15px!important;
+    font-size: 1.5rem!important;
+}
+
+.navbar a {
+    font-size: 1.2rem;
 }
 
 .carousel {
@@ -31,6 +35,10 @@ h1, h2 {
 
 #review-section {
     margin: 10px 10% 0 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 #review-section img{
@@ -44,9 +52,37 @@ h1, h2 {
 }
 
 .review-container {
+    height: 350px;
+    width: 300px;
     margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .review-container h2{
     margin-bottom: 0;
+}
+
+/* Style for screen size that can fit review containers side by side */
+
+@media only screen and (min-width: 1200px) {
+
+#review-section {
+    margin: 10px 50px 0 50px;
+}
+
+#review-section {
+    margin: 10px 10% 0 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.review-left {
+
+}
+
 }

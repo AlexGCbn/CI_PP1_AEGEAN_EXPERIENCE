@@ -5,12 +5,15 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     height: 1500px;
+    background-color: #006994!important;
 }
 
 h1, h2 {
     font-family: 'Lora', serif;
     text-transform: uppercase;
 }
+
+
 
 .navbar-brand   {
     font-family: 'Dancing Script', cursive;
@@ -26,10 +29,24 @@ h1, h2 {
     width: 100%;
 }
 
-/* .carousel-item img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-} */
+#review-section {
+    margin: 10px 10% 0 10%;
+}
+
+#review-section img{
+    max-height: 250px;
+    max-width: 250px;
+}
+
+.review-comment {
+    font-style: italic;
+    text-transform: none;
+}
+
+.review-container {
+    margin-bottom: 1rem;
+}
+
+.review-container h2{
+    margin-bottom: 0;
+}

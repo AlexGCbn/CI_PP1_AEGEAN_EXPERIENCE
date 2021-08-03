@@ -52,9 +52,9 @@ h1, h2 {
 }
 
 .review-container {
-    height: 350px;
+    height: 375px;
     width: 300px;
-    margin-bottom: 1rem;
+    margin-bottom: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -71,18 +71,66 @@ h1, h2 {
 
 #review-section {
     margin: 10px 50px 0 50px;
+    position: relative;
 }
 
 #review-section {
-    margin: 10px 10% 0 10%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    margin: 0;
+    display: inline;
+    position: relative;
+    left: 50%;
+    top: 10px;
 }
 
-.review-left {
+#review-1 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: auto;
+    right: 1px;
+}
 
+#review-2 {
+    position: absolute;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    width: auto;
+    left: 1px;
+    top: 175px;
+}
+
+#review-3 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: auto;
+    right: 1px;
+    top: 350px;
+}
+
+#review-4 {
+    position: absolute;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    width: auto;
+    left: 1px;
+    top: 525px;
+}
+
+.review-left > .review-comment {
+    margin-left: 5px;
+    width: 300px;
+    overflow: visible;
+}
+
+.review-right > .review-comment {
+    margin-right: 5px;
+    width: 300px;
+    overflow: visible;
 }
 
 }

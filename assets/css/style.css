@@ -4,8 +4,8 @@
 body {
     font-family: 'Lora', serif;
     font-weight: 300;
-    height: 1500px;
-    background-color: #006994!important;
+    height: auto;
+    background-color: #035397!important;
 }
 
 h1, h2 {
@@ -64,6 +64,8 @@ h1, h2 {
 .review-comment {
     font-style: italic;
     text-transform: none;
+    color: whitesmoke;
+    font-size: 2rem;
 }
 
 .reviewer-att {
@@ -85,9 +87,27 @@ h1, h2 {
     margin-bottom: 0;
 }
 
+.social-media {
+    background-color: #FFAA4C;
+    text-align: center;
+    height: auto;
+}
+
+.social-media li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 160%;
+}
+
 /* Style for screen size that can fit review containers side by side */
 
 @media only screen and (min-width: 1200px) {
+
+    body {
+        min-height: 1200px;
+    }
 
 #review-section {
     margin: 0;

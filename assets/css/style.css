@@ -70,16 +70,12 @@ h1, h2 {
 @media only screen and (min-width: 1200px) {
 
 #review-section {
-    margin: 10px 50px 0 50px;
-    position: relative;
-}
-
-#review-section {
     margin: 0;
     display: inline;
     position: relative;
     left: 50%;
     top: 10px;
+    white-space: nowrap;
 }
 
 #review-1 {
@@ -88,7 +84,7 @@ h1, h2 {
     flex-direction: row;
     align-items: flex-start;
     width: auto;
-    right: 1px;
+    right: -25px;
 }
 
 #review-2 {
@@ -97,7 +93,7 @@ h1, h2 {
     flex-direction: row-reverse;
     align-items: flex-start;
     width: auto;
-    left: 1px;
+    left: -25px;
     top: 175px;
 }
 
@@ -107,7 +103,7 @@ h1, h2 {
     flex-direction: row;
     align-items: flex-start;
     width: auto;
-    right: 1px;
+    right: -25px;
     top: 350px;
 }
 
@@ -117,20 +113,23 @@ h1, h2 {
     flex-direction: row-reverse;
     align-items: flex-start;
     width: auto;
-    left: 1px;
+    left: -25px;
     top: 525px;
 }
 
 .review-left > .review-comment {
-    margin-left: 5px;
-    width: 300px;
-    overflow: visible;
+    margin-left: 30px;
+    width: 350px;
 }
 
 .review-right > .review-comment {
-    margin-right: 5px;
-    width: 300px;
-    overflow: visible;
+    margin-right: 30px;
+    width: 350px;
+    text-align: right;
+}
+
+.review-image {
+    border-radius: 10%;
 }
 
 }

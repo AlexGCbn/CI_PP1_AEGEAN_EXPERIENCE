@@ -2,25 +2,40 @@
 
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Lora', serif;
     font-weight: 300;
     height: 1500px;
     background-color: #006994!important;
 }
 
 h1, h2 {
-    font-family: 'Lora', serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
+}
+
+.navbar {
+    background-color: #001E6C!important;
 }
 
 .navbar-brand {
     font-family: 'Dancing Script', cursive;
     margin-left: 15px!important;
-    font-size: 1.5rem!important;
+    font-size: 1.3rem!important;
+    color: whitesmoke!important;
+}
+
+.fa-bars {
+    color: whitesmoke!important;
+}
+
+.container-fluid > button {
+    color: whitesmoke!important;
 }
 
 .navbar a {
-    font-size: 1.2rem;
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke!important;
 }
 
 .carousel {
@@ -49,6 +64,11 @@ h1, h2 {
 .review-comment {
     font-style: italic;
     text-transform: none;
+}
+
+.reviewer-att {
+    font-size: 80%;
+    font-style: normal;
 }
 
 .review-container {

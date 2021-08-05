@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Poppins:wght@300&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
 body {
     font-family: 'Lora', serif;
@@ -14,7 +19,7 @@ h1, h2 {
 }
 
 .navbar {
-    background-color: #001E6C!important;
+    background-image: linear-gradient(90deg, #5089C6, #001E6C);
 }
 
 .navbar-brand {
@@ -90,7 +95,8 @@ h1, h2 {
 .social-media {
     background-color: #FFAA4C;
     text-align: center;
-    height: auto;
+    height: 50px;
+    margin: 0;
 }
 
 .social-media li {
@@ -105,9 +111,9 @@ h1, h2 {
 
 @media only screen and (min-width: 1200px) {
 
-    body {
-        min-height: 1200px;
-    }
+.content {
+    min-height: calc(100vh-50px);
+}
 
 #review-section {
     margin: 0;

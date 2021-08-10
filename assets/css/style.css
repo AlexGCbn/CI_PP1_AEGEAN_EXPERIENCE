@@ -93,8 +93,11 @@ h1, h2 {
     margin-bottom: 0;
 }
 
+.review-image {
+    border-radius: 10%;
+}
+
 .social-media {
-    /* background-color: #AAAAAA; */
     text-align: center;
     height: 50px;
     margin: 0;
@@ -119,12 +122,51 @@ h1, h2 {
     margin: 20px 5% 0 5%;
     height: 75px;
     overflow: hidden;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+#appetizers-img {
+    margin-top: 70px;
+}
+
+#wines-page {
+    margin-bottom: 20px;
 }
 
 .menu-image img {
     margin-top: -200px;
     width: 100%;
     height: auto;
+}
+
+.menu-page {
+    margin: 0 5% 0 5%;
+    width: auto;
+    height: fit-content;
+    border: solid 1px #000;
+    overflow: hidden;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.page-title {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.menu-left {
+    width: 80%;
+    float: left;
+}
+
+.menu-right {
+    width: 20%;
+    float: right;
+}
+
+.menu-list li {
+    list-style-type: none;
 }
 
 /* Style for screen size that can fit review containers side by side */
@@ -196,10 +238,6 @@ h1, h2 {
     margin-right: 30px;
     width: 350px;
     text-align: right;
-}
-
-.review-image {
-    border-radius: 10%;
 }
 
 }

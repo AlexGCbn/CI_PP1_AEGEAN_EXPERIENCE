@@ -54,6 +54,13 @@ h1, h2 {
     width: 100%;
 }
 
+.carousel-item img {
+    width: 100%;
+    min-width: 600px;
+    min-height: 400px;
+    height: auto;
+}
+
 #review-section {
     margin: 10px 10% 0 10%;
     display: flex;
@@ -62,9 +69,15 @@ h1, h2 {
     justify-content: center;
 }
 
-#review-section img{
-    max-height: 250px;
-    max-width: 250px;
+#review-section .review-img-container{
+    height: 250px;
+    width: 250px;
+}
+
+.review-image {
+    max-height: 100%;
+    max-width: 100%;
+    border-radius: 10%;
 }
 
 .review-comment {
@@ -91,10 +104,6 @@ h1, h2 {
 
 .review-container h2{
     margin-bottom: 0;
-}
-
-.review-image {
-    border-radius: 10%;
 }
 
 .social-media {
@@ -151,7 +160,7 @@ h1, h2 {
 }
 
 .page-title {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
@@ -167,6 +176,7 @@ h1, h2 {
 
 .menu-list li {
     list-style-type: none;
+    font-family: 'Lora', serif;
 }
 
 /* Style for screen size that can fit review containers side by side */
@@ -179,6 +189,12 @@ h1, h2 {
 
 .content {
     min-height: calc(100vh-50px);
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    margin-top: -200px;
 }
 
 #review-section {

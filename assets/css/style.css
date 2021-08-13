@@ -144,9 +144,8 @@ h1, h2 {
 }
 
 .menu-image img {
-    margin-top: -200px;
-    width: 100%;
-    height: auto;
+    min-width: 100%;
+    max-height: 75px;
 }
 
 .menu-page {
@@ -167,11 +166,16 @@ h1, h2 {
 .menu-left {
     width: 80%;
     float: left;
+    padding-left: 5%;
 }
 
 .menu-right {
     width: 20%;
     float: right;
+}
+
+.menu-list {
+    padding: 0;
 }
 
 .menu-list li {
@@ -254,6 +258,15 @@ h1, h2 {
     margin-right: 30px;
     width: 350px;
     text-align: right;
+}
+
+.menu-image{
+    height: 200px;
+}
+
+.menu-image img {
+    width: 100%;
+    min-height: 300px;
 }
 
 }

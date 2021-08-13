@@ -133,6 +133,7 @@ h1, h2 {
     overflow: hidden;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
+    border: solid 1px #000;
 }
 
 #appetizers-img {

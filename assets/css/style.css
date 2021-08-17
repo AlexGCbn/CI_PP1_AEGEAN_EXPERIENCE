@@ -13,6 +13,11 @@ body {
     background-color: #FCF8EC!important;
 }
 
+.content {
+    min-height: calc(100vh - 70px);
+    margin-bottom: -49px;
+}
+
 h1, h2 {
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
@@ -206,16 +211,18 @@ h1, h2 {
     margin: 0 5% 10px 5%;
 }
 
+/* Contact page styling */
+
+.contact-form {
+    margin-top: 70px;
+}
+
 /* Style for large screen size */
 
 @media only screen and (min-width: 1200px) {
 
 .navbar a:hover {
     border-bottom: solid 1px #fff;
-}
-
-.content {
-    min-height: calc(100vh-50px);
 }
 
 .carousel-item img {

@@ -129,7 +129,7 @@ h1, h2 {
 
 .menu-image {
     margin: 20px 5% 0 5%;
-    height: 75px;
+    height: 100px;
     overflow: hidden;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
@@ -146,7 +146,7 @@ h1, h2 {
 
 .menu-image img {
     min-width: 100%;
-    max-height: 75px;
+    max-height: 100px;
 }
 
 .menu-page {
@@ -288,11 +288,20 @@ h1, h2 {
 
 .menu-image{
     height: 200px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu-page {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu-image img {
     width: 100%;
-    min-height: 300px;
+    min-height: 200px;
 }
 
 }

@@ -190,26 +190,23 @@ h1, h2 {
     margin-top: 70px;
 }
 
-/* #about-restaurant {
-    width: 100%;
-    height: 250px;
-} */
-
-#about-restaurant img {
+.about-restaurant img {
+    display: block;
     width: 90%;
+    max-width: 400px;
     height: auto;
-    margin: 0 5% 5px 5%;
+    margin: 0 auto 5px auto;
     border-radius: 5%;
 }
 
-#about-restaurant-text {
+.about-restaurant-text {
     width: 90%;
     height: auto;
     text-align: justify;
     margin: 0 5% 10px 5%;
 }
 
-/* Style for screen size that can fit review containers side by side */
+/* Style for large screen size */
 
 @media only screen and (min-width: 1200px) {
 
@@ -223,6 +220,7 @@ h1, h2 {
 
 .carousel-item img {
     width: 100%;
+    max-width: 2000px;
     height: auto;
     margin-top: -200px;
 }
@@ -286,6 +284,8 @@ h1, h2 {
     text-align: right;
 }
 
+/* Menu styling */
+
 .menu-image{
     height: 200px;
     width: 1000px;
@@ -302,6 +302,36 @@ h1, h2 {
 .menu-image img {
     width: 100%;
     min-height: 200px;
+}
+
+/* About us styling */
+
+.about-restaurant {
+    margin: auto;
+    height: 500px;
+    width: 1000px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.about-restaurant img {
+    height: 500px;
+    width: auto;
+    position: absolute;
+}
+
+.about-restaurant-text {
+    position: absolute;
+    width: 400px;
+    top: 20px;
+}
+
+#our-chef-img, #the-ingredients-img {
+    right: 0;
+}
+
+#our-story, #the-island {
+    right: 0;
 }
 
 }

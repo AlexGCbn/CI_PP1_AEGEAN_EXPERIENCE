@@ -15,6 +15,7 @@ body {
 
 .content {
     min-height: calc(100vh - 70px);
+    padding-bottom: 49px;
     margin-bottom: -49px;
 }
 
@@ -67,7 +68,7 @@ h1, h2 {
 }
 
 #review-section {
-    margin: 10px 10% 0 10%;
+    margin: 10px 10% 49px 10%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -110,6 +111,8 @@ h1, h2 {
 .review-container h2{
     margin-bottom: 0;
 }
+
+/* Footer styling */
 
 .social-media {
     text-align: center;

@@ -136,6 +136,11 @@ h1, h2 {
 
 /* Menu Styling */
 
+#menu-section {
+    max-width: 500px;
+    margin: auto;
+}
+
 .menu-image {
     margin: 20px 5% 0 5%;
     height: 100px;

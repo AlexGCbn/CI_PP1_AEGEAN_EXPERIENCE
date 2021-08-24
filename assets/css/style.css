@@ -269,6 +269,16 @@ h1, h2 {
     background-position: center;
 }
 
+.container-404 {
+    width: 90%;
+    margin: 30% auto;
+    padding: 5%;
+    border-radius: 35px;
+    background-color: rgba(000, 000, 000, 0.7);
+    text-align: center;
+    color: #fff;
+}
+
 /* Style for large screen size */
 
 @media only screen and (min-width: 1200px) {
@@ -455,6 +465,23 @@ h1, h2 {
 
 .contact-info p {
     margin-bottom: 0;
+}
+
+/* 404 page styling */
+
+.section-404 {
+    position: relative;
+    min-height: 80vh;
+}
+
+.container-404 {
+    width: 750px;
+    height: auto;
+    margin: 0;
+    padding: 3%;
+    position: absolute;
+    top: calc(50% - 125px);
+    left: calc(50% - 375px);
 }
 
 }

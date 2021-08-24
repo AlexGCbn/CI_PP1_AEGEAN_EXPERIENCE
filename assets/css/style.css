@@ -412,10 +412,15 @@ h1, h2 {
     width: 35%;
     height: 734px;
     margin-top: 20px;
+    padding: 3% 2% 3% 2%;
     position: absolute;
     top: 190px;
     left: 50px;
     overflow: hidden;
+}
+
+.contact-form * {
+    margin-top: 15px;
 }
 
 .map-iframe {

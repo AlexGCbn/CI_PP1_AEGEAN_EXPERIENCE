@@ -400,7 +400,7 @@ h1, h2 {
     position: relative;
     height: 80vh;
     min-height: 800px;
-    margin: 5%;
+    margin: 5% 5% 0 5%;
 }
 
 .contact-form {

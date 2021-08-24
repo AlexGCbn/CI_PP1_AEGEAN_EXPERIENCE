@@ -404,17 +404,20 @@ h1, h2 {
 
 #contact-us-section {
     position: relative;
-    padding-top: 20px;
+    height: 80vh;
+    min-height: 800px;
+    margin: 5%;
 }
 
 .contact-form {
     width: 35%;
-    height: 734px;
-    margin-top: 20px;
+    height: auto;
+    margin: 0;
     padding: 3% 2% 3% 2%;
     position: absolute;
-    top: 140px;
-    left: 50px;
+    top: 5%;
+    bottom: 5%;
+    left: 5%;
     overflow: hidden;
 }
 
@@ -423,15 +426,16 @@ h1, h2 {
 }
 
 .contact-form * {
-    margin-top: 15px;
+    margin: 5px 0 5px 0;
 }
 
 .map-iframe {
     width: 45%;
     height: 500px;
+    margin: 0;
     position: absolute;
-    right: 50px;
-    top: 140px;
+    right: 5%;
+    top: 5%;
     overflow: hidden;
 }
 
@@ -441,10 +445,15 @@ h1, h2 {
 
 .contact-info {
     width: 45%;
+    margin: 0;
     position: absolute;
-    right: 50px;
-    top: 670px;
+    right: 5%;
+    bottom: 5%;
     overflow: hidden;
+}
+
+.contact-info p {
+    margin-bottom: 0;
 }
 
 }

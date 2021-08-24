@@ -410,8 +410,10 @@ h1, h2 {
 
 .contact-form {
     width: 35%;
+    height: 734px;
+    margin-top: 20px;
     position: absolute;
-    top: 270px;
+    top: 190px;
     left: 50px;
     overflow: hidden;
 }

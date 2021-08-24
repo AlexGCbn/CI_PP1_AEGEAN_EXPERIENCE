@@ -262,6 +262,13 @@ h1, h2 {
     border: solid 1px #000;
 }
 
+/* 404 page styling */
+
+#content-404 {
+    background-image: url(../images/404-image.jpg);
+    background-position: center;
+}
+
 /* Style for large screen size */
 
 @media only screen and (min-width: 1200px) {

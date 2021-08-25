@@ -181,8 +181,17 @@ All pages passed with no errors.
 ### Device and browser testing
 
 The website was tested on the following devices:
-* Windows desktop PC (various parts) running Windows 10
-  * Chrome
+* Windows desktop PC (various components) running Windows 10
+  * Chrome Version 92.0.4515.159
+  * Edge Version 92.0.902.78
+* iPhone 12 Pro
+  * Safari 
+* Various devices from users who tested for feedback
+
+The webpage works great on all devices and browsers that it was tested on.
+Functionality between desktop and mobile remains the same, with the look of the page changing slightly.
+As the website was designed mobile-first, it fits mobile browsers perfectly while also changing to fit a larger screen and occupy more space.
+
 
 ## Deployment:
 

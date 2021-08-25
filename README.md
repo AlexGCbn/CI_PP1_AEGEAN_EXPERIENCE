@@ -178,6 +178,12 @@ All pages passed with no errors.
 ![Contact us page accessibility validation](docs/images/contact-wave-valid.png)
 </details>
 
+### Device and browser testing
+
+The website was tested on the following devices:
+* Windows desktop PC (various parts) running Windows 10
+  * Chrome
+
 ## Deployment:
 
 

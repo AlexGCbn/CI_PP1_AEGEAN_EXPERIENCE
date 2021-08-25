@@ -32,6 +32,7 @@ The Aegean Experience is a website that intends to provide users with the approp
 * Provide a consistent experience throughout the pages.
 * Have a consistent style throughout the pages.
 * Provide easily accessible information.
+* Have a simple yet intuitive design.
 
 ### Target audience goals:
 * Provide an appropriately themed style for a Greek restaurant, for people that are interested in the experience.
@@ -65,6 +66,11 @@ We have a total of 4 pages on the website, which include the below features.
 
 ### Menu:
 ![Menu image](docs/images/menu.png)
+* The menu was designed with simplicity in mind, providing easy to find information with an appropriate theme.
+* It has a consistent style.
+* It is responsive, as its elements become smaller for medium to small screens.
+
+### 
 
 ## Testing:
 

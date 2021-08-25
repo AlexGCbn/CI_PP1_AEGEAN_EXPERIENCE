@@ -70,7 +70,26 @@ We have a total of 4 pages on the website, which include the below features.
 * It has a consistent style.
 * It is responsive, as its elements become smaller for medium to small screens.
 
-### 
+### About us page:
+#### Our Story
+![Restaurant entrance image](docs/images/our-story.png)
+* Short story on how the restaurant was created.
+* Features an image of the restaurant entrance.
+
+#### Our chef
+![Restaurant chef image](docs/images/our-chef.png)
+* Short bio on the restaurant's chef.
+* Features a portrait of the chef.
+
+#### The island
+![Oia, Santorini photo](docs/images/the-island.png)
+* Short introduction to the location of the restaurant, Oia, on Santorini island.
+* Features a photo of Oia.
+
+#### The ingredients
+![Ingredients (crab) photo](docs/images/the-ingredients.png)
+* The restaurant's dedication to the ingredients, explained for all customers.
+* Features a photo of some ingredients (crabs)
 
 ## Testing:
 

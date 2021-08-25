@@ -141,7 +141,42 @@ If we perform the code validation, we can see that there are no errors or warnin
 
 ### Code validation:
 ![CSS code validation result image](docs/images/code-css-valid.png)
+</details>
+<details>
+<summary> Performance </summary>
+Website performance was tested with Google Developer Tools Lighthouse. 
+All pages passed the tests with near perfect results.
 
+### Home:
+![Home page performance validation](docs/images/home-lh-valid.png)
+
+### Menu:
+![Menu page performance validation](docs/images/menu-lh-valid.png)
+
+### About us:
+![About us page performance validation](docs/images/about-lh-valid.png)
+
+### Contact us:
+![Contact us page performance validation](docs/images/contact-lh-valid.png)
+</details>
+
+<details>
+<summary> Accessibility </summary>
+Website accessibility was tested with the WAVE Web Accessibility Evaluation Tool.
+All pages passed with no errors. 
+
+### Home:
+![Home page accessibility validation](docs/images/home-wave-valid.png)
+
+### Menu:
+![Menu page accessibility validation](docs/images/menu-wave-valid.png)
+
+### About us:
+![About us page accessibility validation](docs/images/about-wave-valid.png)
+
+### Contact us:
+![Contact us page accessibility validation](docs/images/contact-wave-valid.png)
+</details>
 
 ## Deployment:
 

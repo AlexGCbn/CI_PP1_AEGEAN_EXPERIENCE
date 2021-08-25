@@ -65,6 +65,7 @@ h1, h2 {
     border-bottom: solid 2px #fff!important;
 }
 
+/* HOMEPAGE STYLE */
 /* All carousel style */
 .carousel {
     width: 100%;
@@ -130,7 +131,7 @@ h1, h2 {
     margin-top: 20px;
 }
 
-/* Footer styling */
+/* FOOTER STYLE */
 .social-media {
     text-align: center;
     height: 50px;
@@ -149,7 +150,7 @@ h1, h2 {
     color: #fff;
 }
 
-/* Menu Styling */
+/* MENU STYLE */
 #menu-section {
     max-width: 500px;
     margin: auto;
@@ -193,6 +194,7 @@ h1, h2 {
     text-align: center;
 }
 
+/* Floated 2 divs in menu container to have separate prices */
 .menu-left {
     width: 80%;
     float: left;
@@ -213,7 +215,7 @@ h1, h2 {
     font-family: 'Lora', serif;
 }
 
-/* About us style */
+/* ABOUT US STYLE */
 /* Initial margin for top item - Corresponds with the rest of the pages */
 #about-us-section {
     margin-top: 20px;
@@ -235,7 +237,7 @@ h1, h2 {
     margin: 0 5% 10px 5%;
 }
 
-/* Contact page styling */
+/* CONTACT US STYLE */
 /* Feedback form */
 /* Initial margin for top item - Corresponds with the rest of the pages */
 .contact-form {
@@ -283,7 +285,7 @@ h1, h2 {
     border: solid 1px #000;
 }
 
-/* 404 page styling */
+/* 404 PAGE STYLE */
 /* Set background image */
 #content-404 {
     background-image: url(../images/404-image.jpg);
@@ -310,6 +312,8 @@ h1, h2 {
     border-bottom: solid 1px #fff;
 }
 
+/* HOMEPAGE STYLE */
+/* Attributes for carousel, so images retain quality and do not stretch indefinitely */
 .carousel-item img {
     width: 100%;
     max-width: 2000px;
@@ -317,6 +321,7 @@ h1, h2 {
     margin-top: -200px;
 }
 
+/* Absolute attributes for review section elements so they can retain the style on large screens */
 .review-comment {
     width: 350px;
     padding-top: 0;
@@ -331,6 +336,8 @@ h1, h2 {
     white-space: nowrap;
 }
 
+/* Absolute positioning so elements can retain style */
+/* All containers are flex to be able to set the flow (direction) */
 #review-1 {
     position: absolute;
     display: flex;
@@ -380,12 +387,12 @@ h1, h2 {
     text-align: right;
 }
 
-/* Menu styling */
-
+/* MENU STYLE */
 #menu-section {
     max-width: none;
 }
 
+/* Set absolute height and width, so images are not stretched indefinitely */
 .menu-image{
     height: 200px;
     width: 1000px;
@@ -393,6 +400,7 @@ h1, h2 {
     margin-right: auto;
 }
 
+/* Auto-centering with automatic margins */
 .menu-page {
     width: 1000px;
     margin-left: auto;
@@ -404,8 +412,8 @@ h1, h2 {
     min-height: 200px;
 }
 
-/* About us styling */
-
+/* ABOUT US STYLE */
+/* Absolute positioning and sizing, to retain style on large screens */
 .about-restaurant {
     margin: auto;
     height: 500px;
@@ -434,10 +442,11 @@ h1, h2 {
     right: 0;
 }
 
-/* Contact us styling */
-
+/* CONTACT US STYLE */
+/* Absolute positioning to retain style*/
 #contact-us-section {
     position: relative;
+    /* Height and min-height set to fit all content per designed style */
     height: 80vh;
     min-height: 900px;
     margin: 3% 5% 0 5%;
@@ -490,8 +499,7 @@ h1, h2 {
     margin-bottom: 0;
 }
 
-/* 404 page styling */
-
+/* 404 PAGE STYLE */
 .section-404 {
     position: relative;
     min-height: 80vh;
@@ -503,6 +511,7 @@ h1, h2 {
     margin: 0;
     padding: 3%;
     position: absolute;
+    /* Center positioning */
     top: calc(50% - 125px);
     left: calc(50% - 375px);
 }

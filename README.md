@@ -113,6 +113,7 @@ We have a total of 4 pages on the website, which include the below features.
 * Provides easy to use links to social media that open in separate tabs.
 
 ## Testing:
+### Validation
 
 
 ## Deployment:

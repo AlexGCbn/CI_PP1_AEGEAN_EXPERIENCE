@@ -52,6 +52,10 @@ h1, h2 {
     border-bottom: solid 1px rgba(000, 000, 000, 0); /* Invisible border bottom so links don't move on hover */
 }
 
+.navbar a.active {
+    border-bottom: solid 2px #fff!important;
+}
+
 .carousel {
     width: 100%;
 }

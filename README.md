@@ -7,7 +7,7 @@ The Aegean Experience is a website that intends to provide users with the approp
 
 ## User Stories:
 ### As a first time user, I want to:
-1. See photos of the meals.
+1. See photos of some meals.
 2. Know where the restaurant is located.
 3. See how I can contact the restaurant.
 4. Learn more about the restaurant's origin and creator.
@@ -192,6 +192,73 @@ The webpage works great on all devices and browsers that it was tested on.
 Functionality between desktop and mobile remains the same, with the look of the page changing slightly.
 As the website was designed mobile-first, it fits mobile browsers perfectly while also changing to fit a larger screen and occupy more space.
 
+### User stories testing
+<details>
+<summary> 1. See photos of some meals.</summary>
+
+### Feature: Carousel & Menu
+With the Home page Carousel, we can showcase the finest dishes in the restaurant.
+Some dish photos can also be seen in the menu.
+![Carousel feature image](docs/images/carousel-feature.png)
+![Menu feature image](docs/images/menu.png)
+</details>
+<details>
+<summary> 2. Know where the restaurant is located.</summary>
+
+### Feature: Google Maps iFrame & Contact details
+With the Google Maps iFrame we can directly show where the restaurant is located.
+Right beneath it we can also find the contact details, which have the restaurant location details.
+![Google Maps iFrame image](docs/images/map-iframe.png)
+![Contact details image](docs/images/contact-details.png)
+</details>
+<details>
+<summary> 3. See how I can contact the restaurant.</summary>
+
+</details>
+<details>
+<summary> 4. Learn more about the restaurant's origin and creator.</summary>
+
+</details>
+<details>
+<summary> 5. See the restaurant operating hours.</summary>
+
+</details>
+<details>
+<summary> 6. See the menu.</summary>
+
+</details>
+<details>
+<summary> 7. Be able to easily provide feedback.</summary>
+
+</details>
+<details>
+<summary> 8. Have an easy way to contact the restaurant for reservations or information.</summary>
+
+</details>
+<details>
+<summary> 9. Have links to the restaurant's social media pages.</summary>
+
+</details>
+<details>
+<summary> 10. See what critics thought about the place.</summary>
+
+</details>
+<details>
+<summary> 11. Provide visitors with information about the restaurant's origins and staff.</summary>
+
+</details>
+<details>
+<summary> 12. Have a way to easily navigate the website.</summary>
+
+</details>
+<details>
+<summary> 13. Be able to receive feedback from visitors.</summary>
+
+</details>
+<details>
+<summary> 14. Showcase some of the dishes.</summary>
+
+</details>
 
 ## Deployment:
 

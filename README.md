@@ -196,7 +196,7 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 <details>
 <summary> 1. See photos of some meals.</summary>
 
-### Feature: Carousel & Menu
+#### Feature: Carousel & Menu
 With the Home page Carousel, we can showcase the finest dishes in the restaurant.  
 Some dish photos can also be seen in the menu.  
 ![Carousel feature image](docs/images/carousel-feature.png)
@@ -205,7 +205,7 @@ Some dish photos can also be seen in the menu.
 <details>
 <summary> 2. Know where the restaurant is located.</summary>
 
-### Feature: Google Maps iFrame & Contact details
+#### Feature: Google Maps iFrame & Contact details
 With the Google Maps iFrame we can directly show where the restaurant is located.  
 Right beneath it we can also find the contact details, which have the restaurant location details.  
 ![Google Maps iFrame image](docs/images/map-iframe.png)
@@ -214,14 +214,14 @@ Right beneath it we can also find the contact details, which have the restaurant
 <details>
 <summary> 3. See how I can contact the restaurant.</summary>
 
-### Feature: Contact details
+#### Feature: Contact details
 In the contact details section we can find all information related on how to contact the restaurant.  
 ![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 4. Learn more about the restaurant's origin and creator.</summary>
 
-### Feature: Our story & Our chef
+#### Feature: Our story & Our chef
 In the About Us section, we can find stories about the restaurant and the chef.  
 ![Restaurant entrance image](docs/images/our-story.png)
 ![Restaurant chef image](docs/images/our-chef.png)
@@ -229,14 +229,14 @@ In the About Us section, we can find stories about the restaurant and the chef.
 <details>
 <summary> 5. See the restaurant operating hours.</summary>
 
-### Feature: Contact details
+#### Feature: Contact details
 In the contact details section we can find the operating hours of the restaurant.  
 ![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 6. See the menu.</summary>
 
-### Feature: Menu page
+#### Feature: Menu page
 The Menu page is dedicated to providing visitors with a list of the menu items.  
 ![Menu image](docs/images/menu.png)
 </details>

@@ -3,6 +3,7 @@
 ![Website mockup](docs/responsive-website.PNG)
 
 The Aegean Experience is a website that intends to provide users with the appropriate information about the restaurant with the same name, both in text and images. As it is a restaurant's webpage, there was further scope than just the basic intent. The webpage strives to provide visitors with easy to find information, along with visual content that looks appetizing. It is also important to keep the page's style as close to the "sea" or "greek" style as possible, to provide the appropriate feeling to the visitor.
+* The restaurant was imagined during the website creation and thus most of the information provided is a mock-up, that could be replaced in case it would be used for commercial purposes.
 
 ## User Stories:
 ### As a first time user, I want to:
@@ -51,7 +52,19 @@ We have a total of 4 pages on the website, which include the below features.
 * The current page is underlined with a thick line.
 * The hovered over page is underlined in a thinner line.
 
-###
+### Carousel:
+![Carousel image](docs/images/carousel.png)
+* The carousel provides the option to showcase images on the main page.
+* 3 images have been added with the support for more.
+* It is fully responsive and the image gets resized accordingly. For large screens the image is resized up to a point to maintain quality.
+
+### Review section:
+![Review section image](docs/images/review-section.png)
+* The review section provides users with some mock-up reviews and images.
+* It is a point of referrence to have a general idea of what other people think about the restaurant.
+
+### Menu:
+![Menu image](docs/images/menu.png)
 
 ## Testing:
 

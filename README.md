@@ -107,6 +107,11 @@ We have a total of 4 pages on the website, which include the below features.
 * Provides visitors with all necessary information to contact the restaurant.
 * Has operating hours.
 
+### Footer:
+![Footer image](docs/images/footer.png)
+* Is positioned at the bottom of all pages.
+* Provides easy to use links to social media that open in separate tabs.
+
 ## Testing:
 
 

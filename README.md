@@ -91,6 +91,22 @@ We have a total of 4 pages on the website, which include the below features.
 * The restaurant's dedication to the ingredients, explained for all customers.
 * Features a photo of some ingredients (crabs)
 
+### Contact us page:
+#### Feedback form
+![Feedback form image](docs/images/feedback.png)
+* Provides visitors with the option of sending in their feedback or questions.
+* Has a dedication and a privacy statement.
+
+#### Google maps iFrame
+![Google maps iFrame image](docs/images/map-iframe.png)
+* Provides visitors with the location of the restaurants. (Current version provides the location of Oia, the town where the restaurant would be, as the restaurant is not real)
+* Is embedded correctly to clearly show that it is a Google maps iFrame.
+
+#### Contact details
+![Contact details image](docs/images/contact-details.png)
+* Provides visitors with all necessary information to contact the restaurant.
+* Has operating hours.
+
 ## Testing:
 
 

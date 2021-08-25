@@ -48,7 +48,10 @@ We have a total of 4 pages on the website, which include the below features.
 * The website navbar features the restaurant name and logo and links to the 4 pages.
 * It is fully responsive, as it turns to a "hamburger" menu on medium to small screens.
 * It is featured on all 4 pages, along with the 404 error page.
+* The current page is underlined with a thick line.
+* The hovered over page is underlined in a thinner line.
 
+###
 
 ## Testing:
 

@@ -132,9 +132,9 @@ The W3C Markup Validation Service was used to validate HTML code. All pages pass
 </details>
 <details>
 <summary> CSS </summary>
-The W3C CSS Validation Service (Jigsaw) was used to validate CSS code. 
-When performing the URI validation, we get 12 errors and many warnings. Those errors and warnings are related to Bootstrap.
-If we perform the code validation, we can see that there are no errors or warnings, as seen in the images below.
+The W3C CSS Validation Service (Jigsaw) was used to validate CSS code.   
+When performing the URI validation, we get 12 errors and many warnings. Those errors and warnings are related to Bootstrap.  
+If we perform the code validation, we can see that there are no errors or warnings, as seen in the images below.  
 
 ### URI validation:
 ![CSS URI validation result image](docs/images/page-css-valid.png)
@@ -144,7 +144,7 @@ If we perform the code validation, we can see that there are no errors or warnin
 </details>
 <details>
 <summary> Performance </summary>
-Website performance was tested with Google Developer Tools Lighthouse. 
+Website performance was tested with Google Developer Tools Lighthouse.   
 All pages passed the tests with near perfect results.
 
 ### Home:
@@ -162,7 +162,7 @@ All pages passed the tests with near perfect results.
 
 <details>
 <summary> Accessibility </summary>
-Website accessibility was tested with the WAVE Web Accessibility Evaluation Tool.
+Website accessibility was tested with the WAVE Web Accessibility Evaluation Tool.  
 All pages passed with no errors. 
 
 ### Home:
@@ -188,8 +188,8 @@ The website was tested on the following devices:
   * Safari 
 * Various devices from users who tested for feedback
 
-The webpage works great on all devices and browsers that it was tested on.
-Functionality between desktop and mobile remains the same, with the look of the page changing slightly.
+The webpage works great on all devices and browsers that it was tested on.  
+Functionality between desktop and mobile remains the same, with the look of the page changing slightly.  
 As the website was designed mobile-first, it fits mobile browsers perfectly while also changing to fit a larger screen and occupy more space.
 
 ### User stories testing
@@ -197,8 +197,8 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 <summary> 1. See photos of some meals.</summary>
 
 ### Feature: Carousel & Menu
-With the Home page Carousel, we can showcase the finest dishes in the restaurant.
-Some dish photos can also be seen in the menu.
+With the Home page Carousel, we can showcase the finest dishes in the restaurant.  
+Some dish photos can also be seen in the menu.  
 ![Carousel feature image](docs/images/carousel-feature.png)
 ![Menu feature image](docs/images/menu.png)
 </details>
@@ -206,8 +206,8 @@ Some dish photos can also be seen in the menu.
 <summary> 2. Know where the restaurant is located.</summary>
 
 ### Feature: Google Maps iFrame & Contact details
-With the Google Maps iFrame we can directly show where the restaurant is located.
-Right beneath it we can also find the contact details, which have the restaurant location details.
+With the Google Maps iFrame we can directly show where the restaurant is located.  
+Right beneath it we can also find the contact details, which have the restaurant location details.  
 ![Google Maps iFrame image](docs/images/map-iframe.png)
 ![Contact details image](docs/images/contact-details.png)
 </details>
@@ -215,14 +215,14 @@ Right beneath it we can also find the contact details, which have the restaurant
 <summary> 3. See how I can contact the restaurant.</summary>
 
 ### Feature: Contact details
-In the contact details section we can find all information related on how to contact the restaurant.
+In the contact details section we can find all information related on how to contact the restaurant.  
 ![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 4. Learn more about the restaurant's origin and creator.</summary>
 
 ### Feature: Our story & Our chef
-In the About Us section, we can find stories about the restaurant and the chef.
+In the About Us section, we can find stories about the restaurant and the chef.  
 ![Restaurant entrance image](docs/images/our-story.png)
 ![Restaurant chef image](docs/images/our-chef.png)
 </details>
@@ -230,14 +230,14 @@ In the About Us section, we can find stories about the restaurant and the chef.
 <summary> 5. See the restaurant operating hours.</summary>
 
 ### Feature: Contact details
-In the contact details section we can find the operating hours of the restaurant.
+In the contact details section we can find the operating hours of the restaurant.  
 ![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 6. See the menu.</summary>
 
 ### Feature: Menu page
-The Menu page is dedicated to providing visitors with a list of the menu items.
+The Menu page is dedicated to providing visitors with a list of the menu items.  
 ![Menu image](docs/images/menu.png)
 </details>
 <details>

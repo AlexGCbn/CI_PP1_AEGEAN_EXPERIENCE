@@ -214,22 +214,36 @@ Right beneath it we can also find the contact details, which have the restaurant
 <details>
 <summary> 3. See how I can contact the restaurant.</summary>
 
+### Feature: Contact details
+In the contact details section we can find all information related on how to contact the restaurant.
+![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 4. Learn more about the restaurant's origin and creator.</summary>
 
+### Feature: Our story & Our chef
+In the About Us section, we can find stories about the restaurant and the chef.
+![Restaurant entrance image](docs/images/our-story.png)
+![Restaurant chef image](docs/images/our-chef.png)
 </details>
 <details>
 <summary> 5. See the restaurant operating hours.</summary>
 
+### Feature: Contact details
+In the contact details section we can find the operating hours of the restaurant.
+![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 6. See the menu.</summary>
 
+### Feature: Menu page
+The Menu page is dedicated to providing visitors with a list of the menu items.
+![Menu image](docs/images/menu.png)
 </details>
 <details>
 <summary> 7. Be able to easily provide feedback.</summary>
 
+### Feature: 
 </details>
 <details>
 <summary> 8. Have an easy way to contact the restaurant for reservations or information.</summary>

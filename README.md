@@ -114,6 +114,33 @@ We have a total of 4 pages on the website, which include the below features.
 
 ## Testing:
 ### Validation
+<details>
+<summary> HTML </summary>
+The W3C Markup Validation Service was used to validate HTML code. All pages passed with no errors or warnings to show.
+
+### Home:
+![Home page html validation](docs/images/home-html-valid.png)
+
+### Menu:
+![Menu page html validation](docs/images/menu-html-valid.png)
+
+### About us:
+![About us page html validation](docs/images/about-html-valid.png)
+
+### Contact us:
+![Contact us page html validation](docs/images/contact-html-valid.png)
+</details>
+<details>
+<summary> CSS </summary>
+The W3C CSS Validation Service (Jigsaw) was used to validate CSS code. 
+When performing the URI validation, we get 12 errors and many warnings. Those errors and warnings are related to Bootstrap.
+If we perform the code validation, we can see that there are no errors or warnings, as seen in the images below.
+
+### URI validation:
+![CSS URI validation result image](docs/images/page-css-valid.png)
+
+### Code validation:
+![CSS code validation result image](docs/images/code-css-valid.png)
 
 
 ## Deployment:

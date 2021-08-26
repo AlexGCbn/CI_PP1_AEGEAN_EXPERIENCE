@@ -243,35 +243,52 @@ The Menu page is dedicated to providing visitors with a list of the menu items.
 <details>
 <summary> 7. Be able to easily provide feedback.</summary>
 
-### Feature: 
+#### Feature: Feedback form on contact us page
+There is a dedicated feedback form in the contact us page for all visitors to send their questions or comments.
+![Feedback form image](docs/images/feedback.png)
 </details>
 <details>
 <summary> 8. Have an easy way to contact the restaurant for reservations or information.</summary>
 
+#### Feature: Contact information
+In the contact information visitors can find both the email and the phone number for the restaurant.
+![Contact details image](docs/images/contact-details.png)
 </details>
 <details>
 <summary> 9. Have links to the restaurant's social media pages.</summary>
 
+#### Feature: Social media footer
+On the website's footer we can find buttons that redirect to major social media platforms. The buttons are logos so it is easy to distinguish where they lead.
+![Footer image](docs/images/footer.png)
 </details>
 <details>
 <summary> 10. See what critics thought about the place.</summary>
 
+#### Feature: Review section
+Right on the home page we can see a few snippets of reviews that show critics' opinions.
+![Review section image](docs/images/review-section.png)
 </details>
 <details>
-<summary> 11. Provide visitors with information about the restaurant's origins and staff.</summary>
+<summary> 11. Provide visitors with information about the restaurant's origins and leadership.</summary>
 
+#### Feature: Our story & Our chef
+In the About Us section, we can find stories about the restaurant and the chef.  
+![Restaurant entrance image](docs/images/our-story.png)
+![Restaurant chef image](docs/images/our-chef.png)
 </details>
 <details>
 <summary> 12. Have a way to easily navigate the website.</summary>
 
+#### Feature: Navbar
+There is a fixed navbar for all pages. 
+![Navbar image](docs/images/navbar.PNG)
 </details>
 <details>
-<summary> 13. Be able to receive feedback from visitors.</summary>
+<summary> 13. Showcase the restaurant's dedication to fresh ingredients.</summary>
 
-</details>
-<details>
-<summary> 14. Showcase some of the dishes.</summary>
-
+#### Feature: The ingredients
+In the About Us section, we can find information about the ingredients the restaurant uses.
+![Ingredients (crab) photo](docs/images/the-ingredients.png)
 </details>
 
 ## Deployment:

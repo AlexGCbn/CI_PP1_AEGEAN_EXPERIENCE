@@ -1,4 +1,5 @@
 # Aegean Experience - HTML & CSS Project
+https://github.com/AlexGCbn/CI_PP1_AEGEAN_EXPERIENCE
 
 ![Website mockup](docs/responsive-website.PNG)
 
@@ -275,12 +276,21 @@ The webpage works great on all devices and browsers that it was tested on.
 Functionality between desktop and mobile remains the same, with the look of the page changing slightly.  
 As the website was designed mobile-first, it fits mobile browsers perfectly while also changing to fit a larger screen and occupy more space.
 
-### User stories testing
+## Bugs
 
-
-
+1. Footer did not stay on the bottom of screen.
+  * Fixed by adding a container for all content which has the full viewport height (100vh), minus the footer height.
+2. Carousel would clip images when transitioning.
+  * Fixed by changing the transition to a fade-out.
+3. When navbar links had a bottom border added for hover effect, they would move slightly up when hovered.
+  * Fixed by adding an invisible bottom border.
 
 ## Deployment:
+* The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  * In the GitHub repository, navigate to the Settings tab 
+  * From the source section drop-down menu, select the Master Branch
+  * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
+The live link can be found here - https://github.com/AlexGCbn/CI_PP1_AEGEAN_EXPERIENCE
 
 ## Credits:

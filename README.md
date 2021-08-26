@@ -279,11 +279,11 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 ## Bugs
 
 1. Footer did not stay on the bottom of screen.
-  * Fixed by adding a container for all content which has the full viewport height (100vh), minus the footer height.
+   * Fixed by adding a container for all content which has the full viewport height (100vh), minus the footer height.
 2. Carousel would clip images when transitioning.
-  * Fixed by changing the transition to a fade-out.
+   * Fixed by changing the transition to a fade-out.
 3. When navbar links had a bottom border added for hover effect, they would move slightly up when hovered.
-  * Fixed by adding an invisible bottom border.
+   * Fixed by adding an invisible bottom border.
 
 ## Deployment:
 * The site was deployed to GitHub pages. The steps to deploy are as follows: 

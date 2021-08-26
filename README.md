@@ -294,3 +294,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 The live link can be found here - https://github.com/AlexGCbn/CI_PP1_AEGEAN_EXPERIENCE
 
 ## Credits:
+
+* All images were downloaded from [Pexels](https://www.pexels.com/), from various artists.
+* Icons used in the logo and footer were linked from [FontAwesome](https://fontawesome.com/).
+* Footer idea was derived from the [Love Running](https://github.com/AlexGCbn/love-running) project, from [Code Institute](https://codeinstitute.net/)
+* The website [Navbar](https://getbootstrap.com/docs/5.0/components/navbar/) and [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/) features and code were taken from their respective Bootstrap websites.
+* Steps on how to link the 404 page were found in [this GitHub post](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)

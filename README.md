@@ -1,5 +1,5 @@
 # Aegean Experience - HTML & CSS Project
-https://github.com/AlexGCbn/CI_PP1_AEGEAN_EXPERIENCE
+https://alexgcbn.github.io/CI_PP1_AEGEAN_EXPERIENCE/
 
 ![Website mockup](docs/responsive-website.PNG)
 
@@ -291,7 +291,7 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
   * From the source section drop-down menu, select the Master Branch
   * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://github.com/AlexGCbn/CI_PP1_AEGEAN_EXPERIENCE
+The live link can be found here - https://alexgcbn.github.io/CI_PP1_AEGEAN_EXPERIENCE/
 
 ## Credits:
 

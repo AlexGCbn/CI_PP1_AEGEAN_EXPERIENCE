@@ -1,5 +1,5 @@
 # Aegean Experience - HTML & CSS Project
-https://alexgcbn.github.io/CI_PP1_AEGEAN_EXPERIENCE/
+In order to view the live site, click [here](https://alexgcbn.github.io/CI_PP1_AEGEAN_EXPERIENCE/).
 
 ![Website mockup](docs/responsive-website.PNG)
 

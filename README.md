@@ -52,66 +52,90 @@ We have a total of 4 pages on the website, which include the below features.
 * It is fully responsive, as it turns to a "hamburger" menu on medium to small screens.
 * It is featured on all 4 pages, along with the 404 error page.
 * The current page is underlined with a thick line.
-* The hovered over page is underlined in a thinner line.
+* The hovered over page is underlined in a thinner line.  
+
+#### User stories covered:
 
 ### Carousel:
 ![Carousel image](docs/images/carousel.png)
 * The carousel provides the option to showcase images on the main page.
 * 3 images have been added with the support for more.
-* It is fully responsive and the image gets resized accordingly. For large screens the image is resized up to a point to maintain quality.
+* It is fully responsive and the image gets resized accordingly. For large screens the image is resized up to a point to maintain quality.  
+
+#### User stories covered:
 
 ### Review section:
 ![Review section image](docs/images/review-section.png)
 * The review section provides users with some mock-up reviews and images.
-* It is a point of referrence to have a general idea of what other people think about the restaurant.
+* It is a point of referrence to have a general idea of what other people think about the restaurant.  
+
+#### User stories covered:
 
 ### Menu:
 ![Menu image](docs/images/menu.png)
 * The menu was designed with simplicity in mind, providing easy to find information with an appropriate theme.
 * It has a consistent style.
-* It is responsive, as its elements become smaller for medium to small screens.
+* It is responsive, as its elements become smaller for medium to small screens.  
+
+#### User stories covered:
 
 ### About us page:
 #### Our Story
 ![Restaurant entrance image](docs/images/our-story.png)
 * Short story on how the restaurant was created.
-* Features an image of the restaurant entrance.
+* Features an image of the restaurant entrance.  
+
+#### User stories covered:
 
 #### Our chef
 ![Restaurant chef image](docs/images/our-chef.png)
 * Short bio on the restaurant's chef.
-* Features a portrait of the chef.
+* Features a portrait of the chef.  
+
+#### User stories covered:
 
 #### The island
 ![Oia, Santorini photo](docs/images/the-island.png)
 * Short introduction to the location of the restaurant, Oia, on Santorini island.
-* Features a photo of Oia.
+* Features a photo of Oia.  
+
+#### User stories covered:
 
 #### The ingredients
 ![Ingredients (crab) photo](docs/images/the-ingredients.png)
 * The restaurant's dedication to the ingredients, explained for all customers.
-* Features a photo of some ingredients (crabs)
+* Features a photo of some ingredients (crabs)  
+
+#### User stories covered:
 
 ### Contact us page:
 #### Feedback form
 ![Feedback form image](docs/images/feedback.png)
 * Provides visitors with the option of sending in their feedback or questions.
-* Has a dedication and a privacy statement.
+* Has a dedication and a privacy statement.  
+
+#### User stories covered:
 
 #### Google maps iFrame
 ![Google maps iFrame image](docs/images/map-iframe.png)
 * Provides visitors with the location of the restaurants. (Current version provides the location of Oia, the town where the restaurant would be, as the restaurant is not real)
-* Is embedded correctly to clearly show that it is a Google maps iFrame.
+* Is embedded correctly to clearly show that it is a Google maps iFrame.  
+
+#### User stories covered:
 
 #### Contact details
 ![Contact details image](docs/images/contact-details.png)
 * Provides visitors with all necessary information to contact the restaurant.
-* Has operating hours.
+* Has operating hours.  
+
+#### User stories covered:
 
 ### Footer:
 ![Footer image](docs/images/footer.png)
 * Is positioned at the bottom of all pages.
-* Provides easy to use links to social media that open in separate tabs.
+* Provides easy to use links to social media that open in separate tabs.  
+
+#### User stories covered:
 
 ## Testing:
 ### Validation

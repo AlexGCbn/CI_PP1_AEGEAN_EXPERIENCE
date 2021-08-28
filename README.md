@@ -6,6 +6,18 @@ In order to view the live site, click [here](https://alexgcbn.github.io/CI_PP1_A
 The Aegean Experience is a website that intends to provide users with the appropriate information about the restaurant with the same name, both in text and images. As it is a restaurant's webpage, there was further scope than just the basic intent. The webpage strives to provide visitors with easy to find information, along with visual content that looks appetizing. It is also important to keep the page's style as close to the "sea" or "greek" style as possible, to provide the appropriate feeling to the visitor.
 * The restaurant was imagined during the website creation and thus most of the information provided is a mock-up, that could be replaced in case it would be used for commercial purposes.
 
+## Table of contents:
+
+1. [User Stories](#user-stories)
+2. [Goals](#goals)
+3. [Features](#features)
+4. [Design](#design)
+5. [Technologies used](#technologies-used)
+6. [Testing](#testing)
+7. [Bugs](#bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+
 ## User Stories:
 
 ### As a first time user, I want to:

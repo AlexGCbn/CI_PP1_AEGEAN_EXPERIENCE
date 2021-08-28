@@ -152,9 +152,22 @@ The specific palette was picked because it is light, simple and can easily resem
 
 ### Fonts:
 The fonts used were the following:  
-[Dancing script](https://fonts.google.com/specimen/Dancing+Script?query=dancing)  
-This font was used only for the website's logo. It is calligraphic and stands out from the rest of the text.  
+[Dancing script](https://fonts.google.com/specimen/Dancing+Script?query=dancing) was used only for the website's logo. It is calligraphic and stands out from the rest of the text.  
   
+[Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) was used for titles on the page, as it is easy to understand and looks great in uppercase.
+
+[Lora](https://fonts.google.com/specimen/Lora?query=lora) was used for the rest of the text on all pages, to make a contrast with the titles while also keeping a simple style.
+
+### Structure: 
+The website's structure follows the core idea of simplicity.  
+The navbar is located on the top of the page, as it is the layout we are used to on the internet.  
+On it, we have the logo on the left that takes users to the home page and the links to all the pages on the right.  
+We also have a visual cue that shows on which page we are. (Thick bottom border)
+There are a total of 4 pages:
+  * Home: A carousel with some images welcomes the user, with some review snippets under it to showcase both some dishes and what critics' experience was.
+  * Menu: Simple layout for a menu with header images.
+  * About us: All the information needed to provide users with a story. Broken down in 4 parts: The restaurant, the chef, the island and the ingredients.
+  * Contact: Grouped information needed to contact the restaurant.
 
 
 ## Testing:

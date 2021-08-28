@@ -7,108 +7,25 @@ The Aegean Experience is a website that intends to provide users with the approp
 * The restaurant was imagined during the website creation and thus most of the information provided is a mock-up, that could be replaced in case it would be used for commercial purposes.
 
 ## User Stories:
+
 ### As a first time user, I want to:
-<details>
-<summary> 1. See photos of some meals.</summary>
-
-#### Feature: Carousel & Menu
-With the Home page Carousel, we can showcase the finest dishes in the restaurant.  
-Some dish photos can also be seen in the menu.  
-![Carousel feature image](docs/images/carousel-feature.png)
-![Menu feature image](docs/images/menu.png)
-</details>
-<details>
-<summary> 2. Know where the restaurant is located.</summary>
-
-#### Feature: Google Maps iFrame & Contact details
-With the Google Maps iFrame we can directly show where the restaurant is located.  
-Right beneath it we can also find the contact details, which have the restaurant location details.  
-![Google Maps iFrame image](docs/images/map-iframe.png)
-![Contact details image](docs/images/contact-details.png)
-</details>
-<details>
-<summary> 3. See how I can contact the restaurant.</summary>
-
-#### Feature: Contact details
-In the contact details section we can find all information related on how to contact the restaurant.  
-![Contact details image](docs/images/contact-details.png)
-</details>
-<details>
-<summary> 4. Learn more about the restaurant's origin and creator.</summary>
-
-#### Feature: Our story & Our chef
-In the About Us section, we can find stories about the restaurant and the chef.  
-![Restaurant entrance image](docs/images/our-story.png)
-![Restaurant chef image](docs/images/our-chef.png)
-</details>
-<details>
-<summary> 5. See the restaurant operating hours.</summary>
-
-#### Feature: Contact details
-In the contact details section we can find the operating hours of the restaurant.  
-![Contact details image](docs/images/contact-details.png)
-</details>
-<details>
-<summary> 6. See the menu.</summary>
-
-#### Feature: Menu page
-The Menu page is dedicated to providing visitors with a list of the menu items.  
-![Menu image](docs/images/menu.png)
-</details>
+1. See photos of some meals.
+2. Know where the restaurant is located.
+3. See how I can contact the restaurant.
+4. Learn more about the restaurant's origin and creator.
+5. See the restaurant operating hours.
+6. See the menu.
 
 ### As a recurring user, I want to:
-<details>
-<summary> 7. Be able to easily provide feedback.</summary>
-
-#### Feature: Feedback form on contact us page
-There is a dedicated feedback form in the contact us page for all visitors to send their questions or comments.
-![Feedback form image](docs/images/feedback.png)
-</details>
-<details>
-<summary> 8. Have an easy way to contact the restaurant for reservations or information.</summary>
-
-#### Feature: Contact information
-In the contact information visitors can find both the email and the phone number for the restaurant.
-![Contact details image](docs/images/contact-details.png)
-</details>
-<details>
-<summary> 9. Have links to the restaurant's social media pages.</summary>
-
-#### Feature: Social media footer
-On the website's footer we can find buttons that redirect to major social media platforms. The buttons are logos so it is easy to distinguish where they lead.
-![Footer image](docs/images/footer.png)
-</details>
-<details>
-<summary> 10. See what critics thought about the place.</summary>
-
-#### Feature: Review section
-Right on the home page we can see a few snippets of reviews that show critics' opinions.
-![Review section image](docs/images/review-section.png)
-</details>
+7. Be able to easily provide feedback.
+8. Have an easy way to contact the restaurant for reservations or information.
+9. Have links to the restaurant's social media pages.
+10. See what critics thought about the place.
 
 ### As the website owner, I want to:
-<details>
-<summary> 11. Provide visitors with information about the restaurant's origins and leadership.</summary>
-
-#### Feature: Our story & Our chef
-In the About Us section, we can find stories about the restaurant and the chef.  
-![Restaurant entrance image](docs/images/our-story.png)
-![Restaurant chef image](docs/images/our-chef.png)
-</details>
-<details>
-<summary> 12. Have a way to easily navigate the website.</summary>
-
-#### Feature: Navbar
-There is a fixed navbar for all pages. 
-![Navbar image](docs/images/navbar.PNG)
-</details>
-<details>
-<summary> 13. Showcase the restaurant's dedication to fresh ingredients.</summary>
-
-#### Feature: The ingredients
-In the About Us section, we can find information about the ingredients the restaurant uses.
-![Ingredients (crab) photo](docs/images/the-ingredients.png)
-</details>
+11. Provide visitors with information about the restaurant's origins and leadership.
+12. Have a way to easily navigate the website.
+13. Showcase the restaurant's dedication to fresh ingredients.
 
 ## Goals:
 ### Development goals:

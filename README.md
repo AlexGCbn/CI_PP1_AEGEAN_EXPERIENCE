@@ -146,7 +146,7 @@ The website was designed with simplicity in mind, while also trying to keep the 
 
 The colour palette was taken from [Color Hunt](https://colorhunt.co/)  
 The one that was used can be found [here](https://colorhunt.co/palette/e8ded2a3d2ca5eaaa8056676).   
-The specific palette was picked because it is light, simple and can easily resemble the colour of the beach.
+The specific palette was picked because it is light, simple and can easily resemble the colour of the beach.  
 ![Colour palette image](docs/images/colour-palette.png)
 
 ## Testing:

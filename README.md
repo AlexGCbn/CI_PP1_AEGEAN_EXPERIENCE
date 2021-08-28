@@ -181,6 +181,23 @@ There are a total of 4 pages:
   * About us: All the information needed to provide users with a story. Broken down in 4 parts: The restaurant, the chef, the island and the ingredients.
   * Contact: Grouped information needed to contact the restaurant.
 
+## Technologies used:
+
+### Languages
+  * HTML
+  * CSS
+
+### Frameworks and tools
+  * Github
+  * VSCode
+  * Bootstrap V5
+  * Balsamiq
+  * Adobe Illustrator
+  * Google fonts
+  * Favicon.io
+  * TinyPNG
+  * Font Awesome
+  * Color Hunt
 
 ## Testing:
 ### Validation

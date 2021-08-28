@@ -140,7 +140,8 @@ We have a total of 4 pages on the website, which include the below features.
 
 ## Design:
 
-The website was designed with simplicity in mind, while also trying to keep the style of Greece and the sea. 
+The website was designed with simplicity in mind, while also trying to keep the style of Greece and the sea.  
+The style is consistent across pages, as most images have softened corners so they seem more refined.  
 
 ### Colours:
 
@@ -148,6 +149,13 @@ The colour palette was taken from [Color Hunt](https://colorhunt.co/)
 The one that was used can be found [here](https://colorhunt.co/palette/e8ded2a3d2ca5eaaa8056676).   
 The specific palette was picked because it is light, simple and can easily resemble the colour of the beach.  
 ![Colour palette image](docs/images/colour-palette.png)
+
+### Fonts:
+The fonts used were the following:  
+[Dancing script](https://fonts.google.com/specimen/Dancing+Script?query=dancing)  
+This font was used only for the website's logo. It is calligraphic and stands out from the rest of the text.  
+  
+
 
 ## Testing:
 ### Validation

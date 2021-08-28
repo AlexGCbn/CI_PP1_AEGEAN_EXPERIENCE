@@ -26,6 +26,7 @@ The Aegean Experience is a website that intends to provide users with the approp
 11. Provide visitors with information about the restaurant's origins and leadership.
 12. Have a way to easily navigate the website.
 13. Showcase the restaurant's dedication to fresh ingredients.
+14. Showcase the location.
 
 ## Goals:
 ### Development goals:
@@ -54,7 +55,7 @@ We have a total of 4 pages on the website, which include the below features.
 * The current page is underlined with a thick line.
 * The hovered over page is underlined in a thinner line.  
 
-#### User stories covered:
+#### User stories covered: 12
 
 ### Carousel:
 ![Carousel image](docs/images/carousel.png)
@@ -62,14 +63,14 @@ We have a total of 4 pages on the website, which include the below features.
 * 3 images have been added with the support for more.
 * It is fully responsive and the image gets resized accordingly. For large screens the image is resized up to a point to maintain quality.  
 
-#### User stories covered:
+#### User stories covered: 1
 
 ### Review section:
 ![Review section image](docs/images/review-section.png)
 * The review section provides users with some mock-up reviews and images.
 * It is a point of referrence to have a general idea of what other people think about the restaurant.  
 
-#### User stories covered:
+#### User stories covered: 10
 
 ### Menu:
 ![Menu image](docs/images/menu.png)
@@ -77,7 +78,7 @@ We have a total of 4 pages on the website, which include the below features.
 * It has a consistent style.
 * It is responsive, as its elements become smaller for medium to small screens.  
 
-#### User stories covered:
+#### User stories covered: 6
 
 ### About us page:
 #### Our Story
@@ -85,28 +86,28 @@ We have a total of 4 pages on the website, which include the below features.
 * Short story on how the restaurant was created.
 * Features an image of the restaurant entrance.  
 
-#### User stories covered:
+#### User stories covered: 4, 11
 
 #### Our chef
 ![Restaurant chef image](docs/images/our-chef.png)
 * Short bio on the restaurant's chef.
 * Features a portrait of the chef.  
 
-#### User stories covered:
+#### User stories covered: 4, 11
 
 #### The island
 ![Oia, Santorini photo](docs/images/the-island.png)
 * Short introduction to the location of the restaurant, Oia, on Santorini island.
 * Features a photo of Oia.  
 
-#### User stories covered:
+#### User stories covered: 14
 
 #### The ingredients
 ![Ingredients (crab) photo](docs/images/the-ingredients.png)
 * The restaurant's dedication to the ingredients, explained for all customers.
 * Features a photo of some ingredients (crabs)  
 
-#### User stories covered:
+#### User stories covered: 13
 
 ### Contact us page:
 #### Feedback form
@@ -114,28 +115,28 @@ We have a total of 4 pages on the website, which include the below features.
 * Provides visitors with the option of sending in their feedback or questions.
 * Has a dedication and a privacy statement.  
 
-#### User stories covered:
+#### User stories covered: 7
 
 #### Google maps iFrame
 ![Google maps iFrame image](docs/images/map-iframe.png)
 * Provides visitors with the location of the restaurants. (Current version provides the location of Oia, the town where the restaurant would be, as the restaurant is not real)
 * Is embedded correctly to clearly show that it is a Google maps iFrame.  
 
-#### User stories covered:
+#### User stories covered: 2, 14
 
 #### Contact details
 ![Contact details image](docs/images/contact-details.png)
 * Provides visitors with all necessary information to contact the restaurant.
 * Has operating hours.  
 
-#### User stories covered:
+#### User stories covered: 2, 3, 5, 8
 
 ### Footer:
 ![Footer image](docs/images/footer.png)
 * Is positioned at the bottom of all pages.
 * Provides easy to use links to social media that open in separate tabs.  
 
-#### User stories covered:
+#### User stories covered: 9
 
 ## Testing:
 ### Validation

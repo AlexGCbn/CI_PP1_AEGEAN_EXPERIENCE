@@ -428,7 +428,7 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 
 <details><summary>Screenshots</summary>
 
-![Navbar image](docs/images/us-testing-nav-about.png)
+![Navbar image](docs/images/us-testing-navbar.png)
 
 </details>
 

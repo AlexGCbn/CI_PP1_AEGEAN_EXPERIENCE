@@ -452,7 +452,7 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 
 <details><summary>Screenshots</summary>
 
-![Location/island story image](docs/images/us-testing-location.png)
+![Location/island story image](docs/images/us-testing-island.png)
 
 </details>
 

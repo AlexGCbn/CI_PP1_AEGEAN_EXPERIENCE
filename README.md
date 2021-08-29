@@ -288,7 +288,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Carousel location image](docs/images/us-testing-carousel.png)
+
 </details>
 
 2. Know where the restaurant is located.
@@ -298,7 +300,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Map location image](docs/images/us-testing-map.png)
+
 </details>
 
 3. See how I can contact the restaurant.
@@ -308,7 +312,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Contact details location image](docs/images/us-testing-contactdetails.png)
+
 </details>
 
 4. Learn more about the restaurant's origin and creator.
@@ -318,8 +324,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Out story location image](docs/images/us-testing-ourstory.png)
 ![Our chef location image](docs/images/us-testing-ourchef.png)
+
 </details>
 
 5. See the restaurant operating hours.
@@ -329,7 +337,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Contact details location image](docs/images/us-testing-contactdetails.png)
+
 </details>
 
 6. See the menu.
@@ -339,7 +349,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Menu location image](docs/images/us-testing-menu.png)
+
 </details>
 
 7. Be able to easily provide feedback.
@@ -349,7 +361,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Feedback form location image](docs/images/us-testing-feedback.png)
+
 </details>
 
 8. Have an easy way to contact the restaurant for reservations or information.
@@ -359,7 +373,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Contact details location image](docs/images/us-testing-contactdetails.png)
+
 </details>
 
 9. Have links to the restaurant's social media pages.
@@ -369,7 +385,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Social media footer location image on home page](docs/images/us-testing-social-1.png)
+
 </details>
 
 10. See what critics thought about the place.
@@ -379,7 +397,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Review section location image](docs/images/us-testing-review.png)
+
 </details>
 
 11. Provide visitors with information about the restaurant's origins and leadership.
@@ -389,8 +409,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Out story location image](docs/images/us-testing-ourstory.png)
 ![Our chef location image](docs/images/us-testing-ourchef.png)
+
 </details>
 
 12. Have a way to easily navigate the website.
@@ -400,7 +422,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Navbar image](docs/images/us-testing-nav-about.png)
+
 </details>
 
 13. Showcase the restaurant's dedication to fresh ingredients.
@@ -410,7 +434,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Ingredients story location image](docs/images/us-testing-ingredients.png)
+
 </details>
 
 14. Showcase the location.
@@ -420,7 +446,9 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 |  |  |  |  |
 
 <details><summary>Screenshots</summary>
+
 ![Location/island story image](docs/images/us-testing-location.png)
+
 </details>
 
 

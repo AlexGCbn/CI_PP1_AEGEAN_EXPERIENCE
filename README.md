@@ -282,10 +282,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 ### User stories testing:
 
 1. See photos of some meals.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Carousel | Navigate to the home page | Scroll through images of meals | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -294,22 +294,24 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 2. Know where the restaurant is located.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Google maps iframe | Navigate to the contact page | See Google maps iframe (map) | Works as expected |
+| Contact details | Navigate to the contact page | See the contact details section | Works as expected |
 
 <details><summary>Screenshots</summary>
 
 ![Map location image](docs/images/us-testing-map.png)
+![Contact details location image](docs/images/us-testing-contactdetails.png)
 
 </details>
 
 3. See how I can contact the restaurant.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Contact details | Navigate to the contact page | See the contact details section | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -318,10 +320,11 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 4. Learn more about the restaurant's origin and creator.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Our story | Navigate to about us page | See "Our story" section | Works as expected |
+| Our chef | Navigate to about us page | See "Our chef" section | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -331,10 +334,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 5. See the restaurant operating hours.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Contact details | Navigate to the contact page | See the contact details section | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -343,10 +346,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 6. See the menu.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Menu | Navigate to menu page | See menu | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -355,22 +358,23 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 7. Be able to easily provide feedback.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Feedback form | Navigate to contact page | See and use form | Works as expected |
 
 <details><summary>Screenshots</summary>
 
 ![Feedback form location image](docs/images/us-testing-feedback.png)
+![Feedback form completed image](docs/images/us-testing-feedback-sent.png)
 
 </details>
 
 8. Have an easy way to contact the restaurant for reservations or information.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Contact details | Navigate to the contact page | See the contact details section | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -379,10 +383,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 9. Have links to the restaurant's social media pages.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Footer | Navigate to the bottom of any page | Open social media links in a new tab | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -391,10 +395,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 10. See what critics thought about the place.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Review section | Navigate to home page | Read critics' review shorts | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -403,10 +407,11 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 11. Provide visitors with information about the restaurant's origins and leadership.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Our story | Navigate to about us page | See "Our story" section | Works as expected |
+| Our chef | Navigate to about us page | See "Our chef" section | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -416,10 +421,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 12. Have a way to easily navigate the website.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Navbar | Navigate to the top of any page | Have links for all pages | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -428,10 +433,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 13. Showcase the restaurant's dedication to fresh ingredients.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| Ingredients | Navigate to about us page | Read short story about dedication to ingredients | Works as expected |
 
 <details><summary>Screenshots</summary>
 
@@ -440,10 +445,10 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 </details>
 
 14. Showcase the location.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-|  |  |  |  |
-|  |  |  |  |
+| The island | Navigate to about us page | Read short story about the island | Works as expected |
 
 <details><summary>Screenshots</summary>
 

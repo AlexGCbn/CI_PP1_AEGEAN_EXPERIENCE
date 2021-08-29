@@ -279,6 +279,149 @@ The webpage works great on all devices and browsers that it was tested on.
 Functionality between desktop and mobile remains the same, with the look of the page changing slightly.  
 As the website was designed mobile-first, it fits mobile browsers perfectly while also changing to fit a larger screen and occupy more space.
 
+### User stories testing:
+
+1. See photos of some meals.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+2. Know where the restaurant is located.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+3. See how I can contact the restaurant.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+4. Learn more about the restaurant's origin and creator.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+5. See the restaurant operating hours.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+6. See the menu.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+7. Be able to easily provide feedback.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+8. Have an easy way to contact the restaurant for reservations or information.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+9. Have links to the restaurant's social media pages.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+10. See what critics thought about the place.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+11. Provide visitors with information about the restaurant's origins and leadership.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+12. Have a way to easily navigate the website.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+13. Showcase the restaurant's dedication to fresh ingredients.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+14. Showcase the location.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+|  |  |  |  |
+|  |  |  |  |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+
 ## Bugs
 
 1. Footer did not stay on the bottom of screen.

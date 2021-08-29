@@ -402,7 +402,7 @@ As the website was designed mobile-first, it fits mobile browsers perfectly whil
 
 <details><summary>Screenshots</summary>
 
-![Review section location image](docs/images/us-testing-review.png)
+![Review section location image](docs/images/us-testing-reviews.png)
 
 </details>
 

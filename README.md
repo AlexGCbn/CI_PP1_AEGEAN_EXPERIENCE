@@ -181,6 +181,30 @@ There are a total of 4 pages:
   * About us: All the information needed to provide users with a story. Broken down in 4 parts: The restaurant, the chef, the island and the ingredients.
   * Contact: Grouped information needed to contact the restaurant.
 
+### Wireframes:
+
+<details>
+<summary>Home page</summary>
+
+![Home page wireframe image](docs/wireframes/1-home-wireframe.png)
+</details>
+<details>
+<summary>Menu page</summary>
+
+![Menu page wireframe image](docs/wireframes/2-menu-wireframe.png)
+</details>
+<details>
+<summary>About us page</summary>
+
+![About us page wireframe image](docs/wireframes/3-about-us-wireframe.png)
+</details>
+<details>
+<summary>Contact us page</summary>
+
+![Contact us page wireframe image](docs/wireframes/4-contact-us-wireframe.png)
+</details>
+
+
 ## Technologies used:
 
 ### Languages
